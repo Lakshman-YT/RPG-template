@@ -75,7 +75,8 @@ Experience a dynamic character system with bow & arrow mechanics, realistic reac
 
 - 🔊 Add audio effects for actions and combat  
 - 💥 Add visual effects (VFX) for bow and arrow  
-- 🐛 Fix crosswalk glitch during movement  
+- 🐛 Fix crosswalk glitch during movement
+- Jump hitbox not recognised.
 
 ---
 
