@@ -2,10 +2,12 @@
 
 > ❗ **NOTE:** This template is compiled and exported genuinely — it does **not** contain any malware, viruses, or unwanted software. It's a clean, pure Godot export of the template. You’re safe to download and use it worry-free!
 
+> 🔧 **Engine:** Built for **Godot 4**, tested on **Godot v4.4.1**
+
 ---
 
 🎉 **LIMITED-TIME SALE** — Get it for **$33** (was $47)!  
-🗓️ Offer valid until **June 10, 2025** — that’s **29.79% OFF**!  
+🗓️ Offer valid until **June 10, 2025** — that’s **29.79% OFF**!
 
 ---
 
@@ -107,23 +109,25 @@ Experience a dynamic character system with bow & arrow mechanics, realistic reac
 
 ## 🐞 Found an Issue? Report It!
 
-You can create a new issue in the GitHub repository if you find a bug, glitch, or have a suggestion.  
-We'll try to resolve or include it in future updates based on severity and priority.
+If you encounter a bug or want to suggest an improvement, open a GitHub issue.
 
 ### 🪜 How to Submit an Issue
 
-1. Go to the **[Issues](https://github.com/Lakshman-YT/RPG-template/issues)** tab in the GitHub repo.
-2. Click **"New Issue"**.
-3. Choose an appropriate title and label (e.g., Bug, Suggestion).
-4. In the description, explain the problem clearly:
+1. Go to the **[Issues Tab](https://github.com/Lakshman-YT/RPG-template/issues)** on GitHub.
+2. Click on **"New Issue"**.
+3. Fill in the title and choose a label (e.g., `bug`, `enhancement`, `help wanted`).
+4. In the description, explain:
    - What were you doing?
-   - What did you expect to happen?
-   - What actually happened?
-5. (Optional but helpful): 📹 **Attach a screen recording or GIF** showing the issue.
+   - What was the expected outcome?
+   - What happened instead?
+   - How can it be reproduced?
+5. Optionally, add:
+   - 📹 A short **video recording** or **GIF** showing the problem
+   - 💬 Any additional context (OS, Godot version, etc.)
 
-> Clear issues = faster fixes! 🔧
+> The clearer your report, the faster the fix 💡
 
 ---
 
 Thanks for checking it out!  
-Happy developing — and may your arrows always hit the mark 🏹  
+Happy developing — and may your arrows always hit the mark 🏹
