@@ -1,17 +1,17 @@
 # 🏹 Godot 3D RPG Player Controller Template
 
-> ❗ **NOTE:** This template is compiled and exported genuinely — it does **not** contain any malware, viruses, or unwanted software. It's a clean, pure Godot export of the template. You’re safe to download and use it worry-free!
-
-> 🔧 **Engine:** Built for **Godot 4**, tested on **Godot v4.4.1**
+> ❗ **NOTE:** This template is compiled and exported genuinely using **Godot 4** (tested on **v4.4.1**) — it does **not** contain any malware, viruses, or hidden files. This is a clean, pure export of the game template. You’re safe to download and use it worry-free!
 
 ---
 
 🎉 **LIMITED-TIME SALE** — Get it for **$33** (was $47)!  
 🗓️ Offer valid until **June 10, 2025** — that’s **29.79% OFF**!
 
+💳 **[Buy it on Itch.io](https://gw-tuts.itch.io/rpg-template-bow-controller)** to support the project and get access to future updates and full project source files!
+
 ---
 
-A **visually rich**, **engaging**, and **ready-to-use** third-person player controller template for your next 3D RPG project — built with **Godot Engine**.
+A **visually rich**, **engaging**, and **ready-to-use** third-person player controller template for your next 3D RPG project — built with **Godot Engine 4**.
 
 Experience a dynamic character system with bow & arrow mechanics, realistic reactions, HUD elements, and finely tuned animations. Whether you're prototyping or building a full game, this template gives you a clean and expandable foundation.
 
@@ -21,12 +21,12 @@ Experience a dynamic character system with bow & arrow mechanics, realistic reac
 
 🎯 **Choose your platform:**
 
-- 🪟 **[Download for Windows 64 bit](https://www.jioaicloud.com/l/?u=ZxnX47cxlkVtY2eohCNCBtTRBYTgnEh5Pxzg4i2W9h3T52Zlo9pnBsHgoxotozb7PrF)**  
-- 🐧 **[Download for Linux 64 bit](https://www.jioaicloud.com/l/?u=uwxxc0c7mfXIBMuR5JmRXDN3oWMJJRKOmK_AH5YLhgIQb2PkF4_B5NZMKqLph7eE0IO)**  
+- 🪟 **[Download for Windows 64-bit](https://www.jioaicloud.com/l/?u=ZxnX47cxlkVtY2eohCNCBtTRBYTgnEh5Pxzg4i2W9h3T52Zlo9pnBsHgoxotozb7PrF)**  
+- 🐧 **[Download for Linux 64-bit](https://www.jioaicloud.com/l/?u=uwxxc0c7mfXIBMuR5JmRXDN3oWMJJRKOmK_AH5YLhgIQb2PkF4_B5NZMKqLph7eE0IO)**  
 - 🍏 **macOS?** No native build yet...  
-  _"Use a virtual machine, or break free and join the penguins 🐧"_  
+  _"Use a virtual machine, or break free and join the penguins 🐧"_
 
-📺 **Watch Gameplay on YouTube**:  
+📺 **Watch Gameplay on YouTube**  
 👉 [Watch Demo Video](https://www.youtube.com/channel/UC-iJpPIKW12c0sge5VGy8Rg)
 
 ---
@@ -100,8 +100,8 @@ Experience a dynamic character system with bow & arrow mechanics, realistic reac
 
 - ✅ You **can use** this template in **personal** or **commercial** game projects.
 - ❌ You **cannot redistribute** the template (as-is or modified), or share the **source code**, publicly or privately.
-- 🧑‍🤝‍🧑 If you plan to use this in a **team** or **company** project, please get permission by contacting me at:  
-  📧 **Contact: Lakshman001@outlook.com**
+- 🧑‍🤝‍🧑 If you plan to use this in a **team** or **company** project, please get permission by contacting:  
+  📧 **Lakshman001@outlook.com**
 
 🔐 **All rights reserved.**
 
@@ -109,25 +109,22 @@ Experience a dynamic character system with bow & arrow mechanics, realistic reac
 
 ## 🐞 Found an Issue? Report It!
 
-If you encounter a bug or want to suggest an improvement, open a GitHub issue.
+If you discover a bug, glitch, or have a suggestion — you can report it directly on GitHub.
 
 ### 🪜 How to Submit an Issue
 
-1. Go to the **[Issues Tab](https://github.com/Lakshman-YT/RPG-template/issues)** on GitHub.
-2. Click on **"New Issue"**.
-3. Fill in the title and choose a label (e.g., `bug`, `enhancement`, `help wanted`).
-4. In the description, explain:
-   - What were you doing?
-   - What was the expected outcome?
-   - What happened instead?
-   - How can it be reproduced?
-5. Optionally, add:
-   - 📹 A short **video recording** or **GIF** showing the problem
-   - 💬 Any additional context (OS, Godot version, etc.)
+1. Go to the **[Issues tab](https://github.com/Lakshman-YT/RPG-template/issues)** of the GitHub repo.
+2. Click **“New Issue”**.
+3. Fill in the issue title and label it as a **Bug** or **Feature Request**.
+4. In the description:
+   - Explain **what you were doing**.
+   - What you **expected to happen**.
+   - What **actually happened**.
+   - Include **screenshots or screen recordings** if possible 📹.
 
-> The clearer your report, the faster the fix 💡
+> Clear issues = faster fixes! 🔧
 
 ---
 
 Thanks for checking it out!  
-Happy developing — and may your arrows always hit the mark 🏹
+Happy developing — and may your arrows always hit the mark 🏹  
