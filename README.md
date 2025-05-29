@@ -27,7 +27,7 @@ Experience a dynamic character system with bow & arrow mechanics, realistic reac
   _"Use a virtual machine, or break free and join the penguins 🐧"_
 
 📺 **Watch Gameplay on YouTube**  
-👉 [Watch Demo Video](https://www.youtube.com/channel/UC-iJpPIKW12c0sge5VGy8Rg)
+👉 [Watch Demo Video](https://youtu.be/jqWEgPSJUCs)
 
 ---
 
