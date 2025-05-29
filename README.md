@@ -4,9 +4,8 @@
 
 ---
 
-🎉 **LIMITED-TIME SALE** — Get it for **$33** (was $47)!  
-🗓️ Offer valid until **June 10, 2025** — that’s **29.79% OFF**!
-
+🎉 **LIMITED-TIME SALE** — Get it for **$26** (was $36)!  
+🗓️ Offer valid until **June 10, 2025** 
 💳 **[Buy it on Itch.io](https://gw-tuts.itch.io/rpg-template-bow-controller)** to support the project and get access to future updates and full project source files!
 
 ---
