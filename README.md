@@ -1,5 +1,15 @@
 # 🏹 Godot 3D RPG Player Controller Template
 
+# ⚠️ Download Unavailable for Now
+
+The download for this source code is currently **stopped** as the animations are from **Mixamo**. However the export demo is still available to test🎭
+
+I will soon try to make an **alternative** so I can bring the downloadable content back up. 🔄✨
+
+> **Note:** This was **not** a free content and had a **purchase amount of $26**. 💰
+
+Thank you for your patience! 🙏
+
 > ❗ **NOTE:** This template is compiled and exported genuinely using **Godot 4** (tested on **v4.4.1**) — it does **not** contain any malware, viruses, or hidden files. This is a clean, pure export of the game template. You’re safe to download and use it worry-free!
 
 ---
