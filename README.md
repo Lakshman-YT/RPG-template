@@ -52,11 +52,11 @@ Old Link 👉 [Watch Demo Video](https://youtu.be/27LYw0-SCqw)
 
 ## 🖼️ Gameplay Screenshots
 
-![Gameplay 1](https://github.com/Lakshman-YT/RPG-template/blob/main/images/1.webp)  
-![Gameplay 2](https://github.com/Lakshman-YT/RPG-template/blob/main/images/2.webp)  
-![Gameplay 3](https://github.com/Lakshman-YT/RPG-template/blob/main/images/3.webp)  
-![Gameplay 4](https://github.com/Lakshman-YT/RPG-template/blob/main/images/4.webp)  
-![Gameplay 5](https://github.com/Lakshman-YT/RPG-template/blob/main/images/5.webp)
+![Gameplay 1](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/1.webp)  
+![Gameplay 2](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/2.webp)  
+![Gameplay 3](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/3.webp)  
+![Gameplay 4](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/4.webp)  
+![Gameplay 5](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/5.webp)
 
 ---
 
