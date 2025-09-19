@@ -40,13 +40,18 @@ Future updates will add advanced VFX and audio packs for the Advanced Controller
 🍏 **macOS?** No native build yet...  
 _"Use a virtual machine, or break free and join the penguins 🐧"_
 
+## ⚠️ Note
+The download files are hosted externally due to GitHub’s **200 MB file size limit** (and Git LFS bandwidth restrictions).  
+This ensures **faster upload and download speeds**.  
+
+📺 Development log is available on the project’s **YouTube channel**.  
+
 ⚠️ **Trust Note:**  
 All `.exe` and Linux builds are **officially compiled by me (Lakshman-YT)**.  
 They are **100% safe, free from any virus or malware**, and can be downloaded without hesitation. ✅
 
 📺 **Watch Gameplay on YouTube**  
-! New video will be updates soon. !
-Old Link 👉 [Watch Demo Video](https://youtu.be/27LYw0-SCqw)
+👉 [Watch Demo Video](https://youtu.be/mSowhJhtzpk)
 
 ---
 
