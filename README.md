@@ -12,15 +12,25 @@
 
 ---
 
-🎉 **LIMITED-TIME SALE**  
+🎉 **LIMITED-TIME SALE**
+
 - 🛠️ **Base Controller** — $15  
   💳 [Buy Base on Itch.io](https://gw-tuts.itch.io/rpg-template-bow-controller)  
+  🎓 **New to this controller? Start with the Lite YouTube Course:**  
+  ▶️ [Watch Free Base Controller Playlist](https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv)  
+  💡 Includes a beginner-friendly walkthrough of the Base Controller setup, bow mechanics, and movement fundamentals.  
+  🔹 Note: Lite course **does not include GUI or advanced systems**. Source code not downloadable.
+
 - ⚔️ **Advanced Controller** — $29  
   💳 [Buy Advanced on Itch.io](https://gw-tuts.itch.io/adv-rpg-template-bow-arrow-controller)  
+  🔥 Unlocks advanced HUD, VFX pack, audio, and upcoming exclusive updates. Perfect if you want the full system with all features and future additions.
 
-> ⚠️ **Note:** The controller you buy only contains the **logic and setup** — it does **not** include animations.  
-Animations must be downloaded separately. A dedicated **YouTube tutorial (English)** will be provided to guide you through setup.  
-The controller is provided **as-is, as shown in the demos**.  
+> ⚠️ **Important Note:**  
+> The controller you buy contains only **logic and setup**. Animations must be downloaded separately.  
+> A dedicated **YouTube tutorial (English)** is included in the download zip to guide you through setup.  
+> The controller is provided **as-is, as shown in the demos**.
+
+
 Future updates will add advanced VFX and audio packs for the Advanced Controller (no fixed timeline).  
 
 ---
@@ -52,6 +62,11 @@ They are **100% safe, free from any virus or malware**, and can be downloaded wi
 
 📺 **Watch Gameplay on YouTube**  
 👉 [Watch Demo Video](https://youtu.be/mSowhJhtzpk)
+
+🎓 **Free Lite Course (YouTube Playlist)**  
+A beginner-friendly series walking you through the **Base Controller** setup step by step.  
+Perfect for learning fundamentals before diving into advanced systems.  
+▶️ [Watch the Full Playlist Here](https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv)
 
 ---
 
@@ -140,6 +155,13 @@ They are **100% safe, free from any virus or malware**, and can be downloaded wi
 
 🔐 **All rights reserved.**  
 📄 Full details available in the [TERMS.md](TERMS.md)  
+
+---
+
+## 🎓 Learn the Basics (Lite Course)
+Want to understand how everything fits together before diving into the full template?  
+Watch the **Lite Version YouTube Course**, covering setup, bow mechanics, and movement fundamentals:  
+🎥 [Watch on YouTube](https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv)
 
 ---
 
