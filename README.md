@@ -1,72 +1,40 @@
 # 🏹 Godot 3D RPG Player Controller Template
+
 ---
 
 ## 📋 Quick Highlights
 
-| Field           | Details                |
-|-----------------|------------------------|
-| 🎮 Name         | **RPG-Template**       |
-| 📌 Version      | **1.0**                |
-| 🔀 Variants     | **Base & Advanced**    |
-| 📅 Updated Date | **September 9, 2025**  |
+| Field              | Details                         |
+|--------------------|---------------------------------|
+| 🎮 Name           | **RPG-Template**                |
+| 📌 Version        | **2.0 (Updated)**               |
+| 🔀 Variants       | **Base V2 & Advanced**          |
+| 📅 Engine Version | 4.6.1                           |
+| 📅 Updated Date   | **21-03-2026**                  |
 
 ---
 
-🎉 **LIMITED-TIME SALE**
+## 📦 WHAT THIS PACK INCLUDES (NEW & EXPANDED)
 
-- 🛠️ **Base Controller** — $15  
-  💳 [Buy Base on Itch.io](https://gw-tuts.itch.io/rpg-template-bow-controller)  
-  🎓 **New to this controller? Start with the Lite YouTube Course:**  
-  ▶️ [Watch Free Base Controller Playlist](https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv)  
-  💡 Includes a beginner-friendly walkthrough of the Base Controller setup, bow mechanics, and movement fundamentals.  
-  🔹 Note: Lite course **does not include GUI or advanced systems**. Source code not downloadable.
+- 🎮 **Mixamo Animation Version**  
+  - Requires animation download  
+  - Setup tutorial included  
 
-- ⚔️ **Advanced Controller** — $29  
-  💳 [Buy Advanced on Itch.io](https://gw-tuts.itch.io/adv-rpg-template-bow-arrow-controller)  
-  🔥 Unlocks advanced HUD, VFX pack, audio, and upcoming exclusive updates. Perfect if you want the full system with all features and future additions.
+- 🎮 **Full Template (My Animation Pack)**  
+  - Ready-to-open project  
+  - Uses custom animations  
 
-> ⚠️ **Important Note:**  
-> The controller you buy contains only **logic and setup**. Animations must be downloaded separately.  
-> A dedicated **YouTube tutorial (English)** is included in the download zip to guide you through setup.  
-> The controller is provided **as-is, as shown in the demos**.
+- 📘 **Expanded RPG Guidance PDF (NEW)**  
+  - Detailed documentation & workflow guidance  
 
+- 🧍 **Blender Character File (EXTRA)**  
+  - Custom character used for animations  
 
-Future updates will add advanced VFX and audio packs for the Advanced Controller (no fixed timeline).  
+- 📄 **README File**  
+  - Setup instructions & tutorial links  
 
----
-
-## 🎮 Download & Try the Demo
-
-### 🎯 Choose your version and platform:
-
-#### 🛠️ Base Controller Demo
-- 🪟 [Download for Windows 64-bit](https://www.jioaicloud.com/l/?u=cFYEj4ybOa6U-qqagg-2J7WQts04gEJF-TZoCiuCP7bCU-OPiBLvhJ5xEg2eAOG5doB)  
-- 🐧 [Download for Linux 64-bit](https://www.jioaicloud.com/l/?u=oxvCJ6cmKjGjGUuOc-jTU3d22vXSX2nmYxIEZRee4g9hfWmKbwfhX89HwSj8tb8CNL3)  
-
-#### ⚔️ Advanced Controller Demo
-- 🪟 [Download for Windows 64-bit](https://www.jioaicloud.com/l/?u=c1HypF32BvEDHwzpxRQxkBZT9l2XaFeNurzC-TenwrEtw17su_ZUs-OIEvP4sfSFhIb)  
-- 🐧 [Download for Linux 64-bit](https://www.jioaicloud.com/l/?u=5Nf450QQQTgEMhBfh7rehEegHvYBnZVjituiJVu-4mJo3YFhxj5VY6QLpT9Td8Dmb3F)  
-
-🍏 **macOS?** No native build yet...  
-_"Use a virtual machine, or break free and join the penguins 🐧"_
-
-## ⚠️ Note
-The download files are hosted externally due to GitHub’s **200 MB file size limit** (and Git LFS bandwidth restrictions).  
-This ensures **faster upload and download speeds**.  
-
-📺 Development log is available on the project’s **YouTube channel**.  
-
-⚠️ **Trust Note:**  
-All `.exe` and Linux builds are **officially compiled by me (Lakshman-YT)**.  
-They are **100% safe, free from any virus or malware**, and can be downloaded without hesitation. ✅
-
-📺 **Watch Gameplay on YouTube**  
-👉 [Watch Demo Video](https://youtu.be/mSowhJhtzpk)
-
-🎓 **Free Lite Course (YouTube Playlist)**  
-A beginner-friendly series walking you through the **Base Controller** setup step by step.  
-Perfect for learning fundamentals before diving into advanced systems.  
-▶️ [Watch the Full Playlist Here](https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv)
+- ✨ **Additional Content**  
+  - Extra VFX, sound effects, and gameplay polish  
 
 ---
 
@@ -77,110 +45,196 @@ Perfect for learning fundamentals before diving into advanced systems.
 ![Gameplay 3](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/3.webp)  
 ![Gameplay 4](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/4.webp)  
 ![Gameplay 5](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/5.webp)
+![Gameplay 6](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/6.webp)
+![Gameplay 7](https://raw.githubusercontent.com/Lakshman-YT/RPG-template/refs/heads/main/images/7.webp)
 
 ---
 
-## ✨ Features
+## 🎉 LIMITED-TIME SALE
 
-### 🎯 Bow & Arrow Combat System
-- Light and heavy arrow attacks with aim mode  
-- Time-slow ability while aiming  
-- Smooth equip and unequip transitions  
+### 🛠️ Base Controller — $15  
+💳 https://gw-tuts.itch.io/rpg-template-bow-controller  
 
-### 🤺 State-Based Character Controller
-- Crouch, jump, fall, block, dodge, punch, and kick  
-- Responsive and fluid transitions between actions  
-- Jumping possible during active combat state  
+🎓 Beginner? Start here:  
+▶️ https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv  
+
+---
+
+### ⚔️ Advanced Controller — $29  
+💳 https://gw-tuts.itch.io/adv-rpg-template-bow-arrow-controller  
+
+🔥 Includes:
+- Full VFX + Audio integration + HUD  
+
+---
+
+## 🎮 Download & Try the Demo
+
+### 🛠️ Base Controller V2
+
+- 🎯 **Main Version (My Animations)**  
+https://www.jioaicloud.com/l/?u=eh4p781oK4WcOS6Fk2UreinWYk5AyV_U8nYIcPHsc318Ehc5JSLTuP8UiO4AV4yM8BX  
+
+- 🎯 **Mixamo Animation Version**  
+https://www.jioaicloud.com/l/?u=3bUCeGGd8k4EIaPaYjPbnnLtli4tGJ5H30ppNk8GGhOKT5GSjc8kYpyEFpb4U106PrF  
+
+---
+
+### ⚔️ Advanced Controller
+
+- 🎯 **Main Version (My Animations)**  
+https://www.jioaicloud.com/l/?u=QoYKw7yZdjzeayCjnaeKv1qDqNx6tYaCTtYxZNsSzMOLGn-RJJ6pu0ip_FiVYhcdhIb  
+
+- 🎯 **Mixamo Animation Version**  
+https://www.jioaicloud.com/l/?u=cSgl_brPNxKdgrAbHVMNEB3LBmPAJQVEavy_su1F8FhZi_U_R7uNaHsF3CsB0McpMZA  
+
+---
+
+## ✨ NEW IN THIS UPDATE
+
+### ⚙️ Movement & Physics
+- Improved floor movement stability  
+- Fixed sliding issues (Base included)
+
+---
+
+### 💥 Combat Visual Effects (Advanced)
+- Blood splash ground VFX  
+- Multipurpose sparks  
+- Dust particles  
+- Healing effect  
+- Dodge effect  
+- Punch & kick shockwaves  
+
+---
+
+### 🏹 Bow & Arrow Enhancements
+- Equip / unequip VFX  
+- Updated arrow mesh  
+- 4 draw VFX + matching sounds  
+- 4 impact VFX + sounds  
+- Improved arrow stand visuals  
+
+---
+
+### 🔊 Audio Integration (Advanced)
+- Bow sound effects  
+- Player footsteps  
+- Hit reaction audio  
+- Equip / interaction sounds  
+- Death sound  
+- Falling & landing effects  
+
+---
+
+### 🦴 Animation Improvements
+- Updated IK setup for premade animations  
+- Added **custom animation pack (created by me)**  
+- Improved blending and transitions  
+
+---
+
+## 📢 UPDATE STRUCTURE
+
+The controller now includes **two complete versions**:
+
+### 1️⃣ Mixamo Version
+- Uses external animations  
+- Setup tutorial included in ZIP  
+
+### 2️⃣ Custom Animation Version
+- Fully ready project  
+- Uses animations created by me  
+
+✔️ Both versions available in Base & Advanced  
+✔️ Advanced includes VFX + Audio  
+✔️ Provided exactly as shown in demo  
+
+---
+
+## ✨ FEATURES
+
+### 🎯 Bow & Arrow Combat
+- Light & heavy attacks  
+- Aim mode with time slow  
+- Smooth equip / unequip  
+
+---
+
+### 🤺 State-Based Controller
+- Crouch, jump, dodge, block, punch, kick  
+- Smooth transitions  
+- Combat + movement blending  
+
+---
 
 ### 🧠 Realistic Reactions
-- Heavy and light hit reactions from all directions (front/back/left/right)  
-- Natural head movement during idle/walk  
+- Directional hit reactions  
+- Natural idle/walk head movement  
 
-### 🔁 Root Motion Integration
-- Uses root motion for accurate movement (not basic sliding)  
-- Clean and smooth animation blending  
+---
 
-### 📊 Custom HUD
-- Beautiful circular HUD for stamina and time-slow display  
-- Crosshair updates dynamically for light/heavy attacks  
+### 🔁 Root Motion
+- Accurate movement  
+- Clean animation blending  
+
+---
+
+### 📊 Custom HUD (Advanced)
+- Circular stamina system  
+- Dynamic crosshair  
+
+---
 
 ### 🧱 Test Environment
-- Dummies for arrow test, hitbox testing, ragdolls  
-- Kickable/punchable boxes for physical interaction  
+- Target dummies  
+- Hit testing  
+- Physics interaction objects  
 
 ---
 
-## 📌 NEW in this Update
+## 🧰 TECHNICAL DETAILS
 
-### ⚙️ Animation Improvements
-- Added **sudden stop animations** for active state  
-- Fixed **diagonal leg blending** across all states  
-- Added **idle animation logic** for all states  
-- Fixed **looping stutter** (seen in slow motion during animation loops)  
-- Fixed **leg blending** from aim → active state  
-- Improved **crouch → active transitions** (no more glitches on repeated triggers)  
-- Smoothed **equip/unequip bow transitions** on repeated triggers  
+- Clean state machine architecture  
+- Modular animation system  
 
-### 💀 Player States
-- Added **Death state** with various animations and revival logic  
-
-### 🩸 UI & Gameplay
-- Added **Health bar and GUI elements**  
-- Fixed **glitches during movement switching** and other minor issues  
+### Plugins Used:
+- PhantomCamera — third-person camera  
+- Limbo AI — animation tools  
 
 ---
 
-## 🚧 Future Upgrades / Known Issues
-- 🔊 Add audio effects for actions and combat  
-- 💥 Add visual effects (VFX) for bow and arrow  
-- Jump hitbox not recognised  
+## 🛡️ LICENSE
+
+- ✅ Allowed for personal & commercial use  
+- ❌ Redistribution not allowed  
+- 📩 Team use (6+ members) requires permission  
+
+Contact: **Lakshman001@outlook.com**
 
 ---
 
-## 🧰 Technical Highlights
-- 🧩 **Organized Codebase** with clean state machine logic  
-- 🛠️ **Plugins Used**  
-  - [`PhantomCamera`](https://github.com/ramokz/phantom-camera) — dynamic third-person camera  
-  - [`Limbo`](https://github.com/limbonaut/limboai) — animation and movement tools  
-- 🏹 **Optimized Animations** (bow & arrow packs modularized and ready)  
+## 🎓 LEARN THE BASICS
+
+▶️ https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv  
 
 ---
 
-## 🛡️ License & Usage Terms
+## 🎨 CREDITS
 
-- ✅ You **can use** this template in **personal** or **commercial** game projects.  
-- ❌ You **cannot redistribute** the template (as-is or modified), or share the **source code**, publicly or privately.  
-- 🧑‍🤝‍🧑 If you plan to use this in a **team or company project (6+ members)**, please get permission by contacting:  
-  📧 **Lakshman001@outlook.com**  
-
-🔐 **All rights reserved.**  
-📄 Full details available in the [TERMS.md](TERMS.md)  
+- Dummy model: CC0 (Quaternius)  
+- Bow, arrow, textures: Created by me  
+- Animations: Created by me in Blender  
 
 ---
 
-## 🎓 Learn the Basics (Lite Course)
-Want to understand how everything fits together before diving into the full template?  
-Watch the **Lite Version YouTube Course**, covering setup, bow mechanics, and movement fundamentals:  
-🎥 [Watch on YouTube](https://www.youtube.com/playlist?list=PLXOuFjRwH6NgIKFFaksHL6eyqwgailMFv)
+## 🐞 REPORT ISSUES
 
----
-
-## 🎨 Credits & Assets
-
-- The player model (dummy mannequin) is licensed under **CC0** and downloaded from [Quaternius](https://quaternius.com).  
-- The **bow model, arrow model, and textures** were created by **Lakshman-YT** and are included in the template.  
-
----
-
-## 🐞 Found an Issue? Report It!
-
-1. Go to the **[Issues tab](https://github.com/Lakshman-YT/RPG-template/issues)**.  
-2. Click **“New Issue”**.  
-3. Provide details (steps, expected vs actual, screenshots if possible).  
-
-> Clear issues = faster fixes! 🔧
+1. Go to Issues tab  
+2. Click “New Issue”  
+3. Provide details  
 
 ---
 
 Thanks for checking it out!  
-Happy developing — and may your arrows always hit the mark 🏹  
+Happy developing — and may your arrows always hit the mark 🏹
